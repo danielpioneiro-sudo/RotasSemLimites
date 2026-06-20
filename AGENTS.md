@@ -20,3 +20,6 @@ App de rotas / navegação (em desenvolvimento).
 
 ## Banco de dados
 - Não usa Supabase
+
+## Credenciais
+Não usa variáveis de ambiente — sem arquivo .env.
